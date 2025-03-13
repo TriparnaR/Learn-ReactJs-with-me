@@ -10,7 +10,8 @@ This repository is structured to cover all essential concepts from the tutorial.
 ---
 ## 📊 React.js Learning Progress  
 
-![Progress](https://progress-bar.dev/10/?title=React.js&width=300&color=blue&suffix=%)
+![Progress](https://img.shields.io/badge/Progress-10%25-blue?style=for-the-badge)
+
 
 
 ## 📚 Course Overview  
