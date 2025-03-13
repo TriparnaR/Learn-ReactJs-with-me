@@ -10,7 +10,8 @@ This repository is structured to cover all essential concepts from the tutorial.
 ---
 ## 📊 React.js Learning Progress  
 
-🔹 Result:   ![Progress](https://img.shields.io/badge/Progress-10%25-blue?style=for-the-badge)
+🔹 Result:  
+![Progress](https://img.shields.io/badge/Progress-10%25-blue?style=for-the-badge)
 
 
 
