@@ -3,6 +3,10 @@
 This repository documents my journey of learning **React.js** through the **Complete React Course by CodeWithHarry**. React.js is a powerful JavaScript library used to build user interfaces and single-page applications.  
 
 ---
+## 📊 React.js Learning Progress  
+
+![Progress](https://progress-bar.dev/10/?title=React.js&width=300&color=blue&suffix=%)
+
 
 ## 📌 About This Repository  
 This repository is structured to cover all essential concepts from the tutorial. It includes notes, example code, and small projects to reinforce learning.  
